@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "alg": "RS256",
+      "alg": "HS256",
       "kty": "RSA",
       "use": "sig",
       "kid": "key-1",
